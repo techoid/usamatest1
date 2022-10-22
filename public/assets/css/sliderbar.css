@@ -1,0 +1,600 @@
+.home-components-image-resposize-size {
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+
+.home-heading-silder {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 35px;
+    line-height: 41px;
+    letter-spacing: 0.22em;
+    color: #41A53D;
+}
+
+.home-paragrahic-silder {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 75px;
+    color: #3E3E3E;
+}
+
+.home-components-background-image-one {
+    background-image: url('/assets/images/Maskgroup1.png');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 800px;
+    border: 0px;
+}
+
+.home-components-background-image-two {
+    background-image: url('/assets/images/Maskgroup.png');
+    background-size: cover;
+    background-position: center;
+    width: 98%;
+    height: 800px;
+    margin-left: 2%;
+}
+
+.home-components-background-image-three {
+    background-image: url('/assets/images/ImageMask.png');
+    background-size: cover;
+    background-position: center;
+    width: 98%;
+    height: 800px;
+    border: 0px;
+    margin-left: 2%;
+}
+
+.home-components-margin-left-check-row-col {
+    margin-left: 0px;
+}
+
+.home-components-padding-check-row-col {
+    padding: 0px;
+}
+
+.home-components-padding-check-row-col-display-flex {
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.home-components-check-row-col-margin-left {
+    margin-left: 13%;
+}
+
+.home-components-margin-left-check-row-col-flex-direction {
+    display: flex;
+    flex-direction: inherit;
+}
+
+
+@media only screen and (max-width: 600px) {
+
+    .home-components-image-resposize-size {
+        display: flex;
+        flex-wrap: nowrap;
+        align-content: center;
+        justify-content: center;
+        align-items: center;
+        margin-top: 4%;
+        margin-bottom: 4%;
+    }
+
+    .home-heading-silder {
+        font-family: 'Roboto Condensed';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 16px;
+        letter-spacing: 0.22em;
+        color: #41A53D;
+    }
+
+    .home-paragrahic-silder {
+        font-family: 'Roboto Condensed';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 30px;
+        color: #3E3E3E;
+    }
+
+
+    .home-components-background-image-one {
+        background-image: url('/assets/images/Maskgroup1.png');
+        background-size: cover;
+        background-position: center;
+        width: 100%;
+        height: 300px;
+        border: 0px;
+    }
+
+    .home-components-background-image-two {
+        background-image: url('/assets/images/Maskgroup.png');
+        background-size: cover;
+        background-position: center;
+        width: 98%;
+        height: 300px;
+        margin-left: 2%;
+    }
+
+    .home-components-background-image-three {
+        background-image: url('/assets/images/ImageMask.png');
+        background-size: cover;
+        background-position: center;
+        width: 98%;
+        height: 300px;
+        border: 0px;
+        margin-left: 2%;
+    }
+
+    .home-components-margin-left-check-row-col {
+        margin-left: 0px;
+    }
+
+    .home-components-padding-check-row-col {
+        padding: 0px;
+    }
+
+    .home-components-padding-check-row-col-display-flex {
+        display: flex;
+        flex-wrap: nowrap;
+        align-content: center;
+        justify-content: center;
+        align-items: flex-end;
+    }
+
+    .home-components-check-row-col-margin-left {
+        margin-left: 0%;
+    }
+
+    .home-components-margin-left-check-row-col-flex-direction {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+}
+
+@media only screen and (min-width: 600px) {
+
+    .home-components-image-resposize-size {
+        display: flex;
+        flex-wrap: nowrap;
+        align-content: center;
+        justify-content: center;
+        align-items: center;
+        margin-top: 4%;
+        margin-bottom: 4%;
+    }
+
+    .home-heading-silder {
+        font-family: 'Roboto Condensed';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 16px;
+        letter-spacing: 0.22em;
+        color: #41A53D;
+    }
+
+    .home-paragrahic-silder {
+        font-family: 'Roboto Condensed';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 30px;
+        color: #3E3E3E;
+    }
+
+
+    .home-components-background-image-one {
+        background-image: url('/assets/images/Maskgroup1.png');
+        background-size: cover;
+        background-position: center;
+        width: 100%;
+        height: 300px;
+        border: 0px;
+    }
+
+    .home-components-background-image-two {
+        background-image: url('/assets/images/Maskgroup.png');
+        background-size: cover;
+        background-position: center;
+        width: 98%;
+        height: 300px;
+        margin-left: 2%;
+    }
+
+    .home-components-background-image-three {
+        background-image: url('/assets/images/ImageMask.png');
+        background-size: cover;
+        background-position: center;
+        width: 98%;
+        height: 300px;
+        border: 0px;
+        margin-left: 2%;
+    }
+
+    .home-components-margin-left-check-row-col {
+        margin-left: 0px;
+    }
+
+    .home-components-padding-check-row-col {
+        padding: 0px;
+    }
+
+    .home-components-padding-check-row-col-display-flex {
+        display: flex;
+        flex-wrap: nowrap;
+        align-content: center;
+        justify-content: center;
+        align-items: flex-end;
+    }
+
+    .home-components-check-row-col-margin-left {
+        margin-left: 0%;
+    }
+
+    .home-components-margin-left-check-row-col-flex-direction {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px){
+
+    .home-components-image-resposize-size {
+        display: flex;
+        flex-wrap: nowrap;
+        align-content: center;
+        justify-content: center;
+        align-items: center;
+        margin-top: 4%;
+        margin-bottom: 4%;
+    }
+
+    .home-heading-silder {
+        font-family: 'Roboto Condensed';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 25px;
+        letter-spacing: 0.22em;
+        color: #41A53D;
+    }
+
+    .home-paragrahic-silder {
+        font-family: 'Roboto Condensed';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 30px;
+        color: #3E3E3E;
+    }
+
+    .home-components-background-image-one {
+        background-image: url('/assets/images/Maskgroup1.png');
+        background-size: cover;
+        background-position: center;
+        width: 100%;
+        height: 300px;
+        border: 0px;
+    }
+
+    .home-components-background-image-two {
+        background-image: url('/assets/images/Maskgroup.png');
+        background-size: cover;
+        background-position: center;
+        width: 98%;
+        height: 300px;
+        margin-left: 2%;
+    }
+
+    .home-components-background-image-three {
+        background-image: url('/assets/images/ImageMask.png');
+        background-size: cover;
+        background-position: center;
+        width: 98%;
+        height: 300px;
+        border: 0px;
+        margin-left: 2%;
+    }
+
+    .home-components-margin-left-check-row-col {
+        margin-left: 0px;
+    }
+
+    .home-components-padding-check-row-col {
+        padding: 0px;
+    }
+
+    .home-components-padding-check-row-col-display-flex {
+        display: flex;
+        flex-wrap: nowrap;
+        align-content: center;
+        justify-content: center;
+        align-items: flex-end;
+    }
+
+    .home-components-check-row-col-margin-left {
+        margin-left: 0%;
+    }
+
+    .home-components-margin-left-check-row-col-flex-direction {
+        display: flex;
+        flex-direction: inherit;
+    }
+
+}
+
+@media only screen and (min-width: 820px) and (max-width: 1024px){
+
+    .home-components-image-resposize-size {
+        display: flex;
+        flex-wrap: nowrap;
+        align-content: center;
+        justify-content: center;
+        align-items: center;
+        margin-top: 4%;
+        margin-bottom: 4%;
+    }
+
+    .home-heading-silder {
+        font-family: 'Roboto Condensed';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 25px;
+        letter-spacing: 0.22em;
+        color: #41A53D;
+    }
+
+    .home-paragrahic-silder {
+        font-family: 'Roboto Condensed';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 30px;
+        color: #3E3E3E;
+    }
+
+    .home-components-background-image-one {
+        background-image: url('/assets/images/Maskgroup1.png');
+        background-size: cover;
+        background-position: center;
+        width: 100%;
+        height: 300px;
+        border: 0px;
+    }
+
+    .home-components-background-image-two {
+        background-image: url('/assets/images/Maskgroup.png');
+        background-size: cover;
+        background-position: center;
+        width: 98%;
+        height: 300px;
+        margin-left: 2%;
+    }
+
+    .home-components-background-image-three {
+        background-image: url('/assets/images/ImageMask.png');
+        background-size: cover;
+        background-position: center;
+        width: 98%;
+        height: 300px;
+        border: 0px;
+        margin-left: 2%;
+    }
+
+    .home-components-margin-left-check-row-col {
+        margin-left: 0px;
+    }
+
+    .home-components-padding-check-row-col {
+        padding: 0px;
+    }
+
+    .home-components-padding-check-row-col-display-flex {
+        display: flex;
+        flex-wrap: nowrap;
+        align-content: center;
+        justify-content: center;
+        align-items: flex-end;
+    }
+
+    .home-components-check-row-col-margin-left {
+        margin-left: 0%;
+    }
+
+    .home-components-margin-left-check-row-col-flex-direction {
+        display: flex;
+        flex-direction: inherit;
+    }
+
+} 
+
+@media only screen and (min-width: 992px) {
+
+    .home-components-image-resposize-size {
+        display: flex;
+        flex-wrap: nowrap;
+        align-content: center;
+        justify-content: center;
+        align-items: center;
+        margin-top: 4%;
+        margin-bottom: 4%;
+    }
+
+    .home-heading-silder {
+        font-family: 'Roboto Condensed';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 35px;
+        line-height: 41px;
+        letter-spacing: 0.22em;
+        color: #41A53D;
+    }
+
+    .home-paragrahic-silder {
+        font-family: 'Roboto Condensed';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 64px;
+        line-height: 75px;
+        color: #3E3E3E;
+    }
+
+    .home-components-background-image-one {
+        background-image: url('/assets/images/Maskgroup1.png');
+        background-size: cover;
+        background-position: center;
+        width: 100%;
+        height: 800px;
+        border: 0px;
+    }
+
+    .home-components-background-image-two {
+        background-image: url('/assets/images/Maskgroup.png');
+        background-size: cover;
+        background-position: center;
+        width: 98%;
+        height: 800px;
+        margin-left: 2%;
+    }
+
+    .home-components-background-image-three {
+        background-image: url('/assets/images/ImageMask.png');
+        background-size: cover;
+        background-position: center;
+        width: 98%;
+        height: 800px;
+        border: 0px;
+        margin-left: 2%;
+    }
+
+    .home-components-margin-left-check-row-col {
+        margin-left: 0px;
+    }
+
+    .home-components-padding-check-row-col {
+        padding: 0px;
+    }
+
+    .home-components-padding-check-row-col-display-flex {
+        display: flex;
+        flex-wrap: nowrap;
+        align-content: center;
+        justify-content: center;
+        align-items: flex-end;
+    }
+
+    .home-components-check-row-col-margin-left {
+        margin-left: 13%;
+    }
+
+    .home-components-margin-left-check-row-col-flex-direction {
+        display: flex;
+        flex-direction: inherit;
+    }
+    
+}
+
+@media only screen and (min-width: 1200px) {
+
+    .home-components-image-resposize-size {
+        display: flex;
+        flex-wrap: nowrap;
+        align-content: center;
+        justify-content: center;
+        align-items: center;
+        margin-top: 4%;
+        margin-bottom: 4%;
+    }
+
+    .home-heading-silder {
+        font-family: 'Roboto Condensed';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 35px;
+        line-height: 41px;
+        letter-spacing: 0.22em;
+        color: #41A53D;
+    }
+
+    .home-paragrahic-silder {
+        font-family: 'Roboto Condensed';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 64px;
+        line-height: 75px;
+        color: #3E3E3E;
+    }
+
+    .home-components-background-image-one {
+        background-image: url('/assets/images/Maskgroup1.png');
+        background-size: cover;
+        background-position: center;
+        width: 100%;
+        height: 800px;
+        border: 0px;
+    }
+
+    .home-components-background-image-two {
+        background-image: url('/assets/images/Maskgroup.png');
+        background-size: cover;
+        background-position: center;
+        width: 98%;
+        height: 800px;
+        margin-left: 2%;
+    }
+
+    .home-components-background-image-three {
+        background-image: url('/assets/images/ImageMask.png');
+        background-size: cover;
+        background-position: center;
+        width: 98%;
+        height: 800px;
+        border: 0px;
+        margin-left: 2%;
+    }
+
+    .home-components-margin-left-check-row-col {
+        margin-left: 0px;
+    }
+
+    .home-components-padding-check-row-col {
+        padding: 0px;
+    }
+
+    .home-components-padding-check-row-col-display-flex {
+        display: flex;
+        flex-wrap: nowrap;
+        align-content: center;
+        justify-content: center;
+        align-items: flex-end;
+    }
+
+    .home-components-check-row-col-margin-left {
+        margin-left: 13%;
+    }
+
+    .home-components-margin-left-check-row-col-flex-direction {
+        display: flex;
+        flex-direction: inherit;
+    }
+
+}

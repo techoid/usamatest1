@@ -1,0 +1,199 @@
+.on-blog-details-heading {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: left;
+    letter-spacing: 0.2em;
+    color: #41A53D;
+    margin-top: 20px;
+}
+
+.on-blog-details-paraghic {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+    color: #000000;
+    margin-top: 20px;
+}
+
+.on-blog-details-container-fluid-padding { 
+    padding: 15px;
+}
+
+@media only screen and (max-width: 600px) {
+
+    .on-blog-details-heading {
+        font-family: 'Roboto Condensed';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 20px;
+        text-align: left;
+        letter-spacing: 0.2em;
+        color: #41A53D;
+        margin-top: 10px;
+    }
+
+    .on-blog-details-paraghic {
+        font-family: 'Roboto Condensed';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 20px;
+        color: #000000;
+        margin-top: 10px;
+    }
+
+    .on-blog-details-container-fluid-padding { 
+        padding: 0px;
+    }
+
+}
+
+@media only screen and (min-width: 600px) {
+
+    .on-blog-details-heading {
+        font-family: 'Roboto Condensed';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 20px;
+        text-align: left;
+        letter-spacing: 0.2em;
+        color: #41A53D;
+        margin-top: 10px;
+    }
+
+    .on-blog-details-paraghic {
+        font-family: 'Roboto Condensed';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 20px;
+        color: #000000;
+        margin-top: 10px;
+    }
+
+    .on-blog-details-container-fluid-padding { 
+        padding: 0px;
+    }
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px){
+    .on-blog-details-heading {
+        font-family: 'Roboto Condensed';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 25px;
+        line-height: 25px;
+        text-align: left;
+        letter-spacing: 0.2em;
+        color: #41A53D;
+        margin-top: 20px;
+    }
+
+    .on-blog-details-paraghic {
+        font-family: 'Roboto Condensed';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 26px;
+        color: #000000;
+        margin-top: 20px;
+    }
+}
+
+@media only screen and (min-width: 820px) and (max-width: 1024px){
+
+    .on-blog-details-heading {
+        font-family: 'Roboto Condensed';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 30px;
+        line-height: 30px;
+        text-align: left;
+        letter-spacing: 0.2em;
+        color: #41A53D;
+        margin-top: 15px;
+    }
+
+    .on-blog-details-paraghic {
+        font-family: 'Roboto Condensed';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 26px;
+        color: #000000;
+        margin-top: 15px;
+    }
+
+    .on-blog-details-container-fluid-padding { 
+        padding: 0px;
+    }
+
+} 
+
+@media only screen and (min-width: 992px) {
+
+    .on-blog-details-heading {
+        font-family: 'Roboto Condensed';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 40px;
+        line-height: 47px;
+        text-align: left;
+        letter-spacing: 0.2em;
+        color: #41A53D;
+        margin-top: 20px;
+    }
+
+    .on-blog-details-paraghic {
+        font-family: 'Roboto Condensed';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 26px;
+        color: #000000;
+        margin-top: 20px;
+    }
+
+    .on-blog-details-container-fluid-padding { 
+        padding: 15px;
+    }
+    
+}
+
+@media only screen and (min-width: 1200px) {
+
+    .on-blog-details-heading {
+        font-family: 'Roboto Condensed';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 40px;
+        line-height: 47px;
+        text-align: left;
+        letter-spacing: 0.2em;
+        color: #41A53D;
+        margin-top: 20px;
+    }
+
+    .on-blog-details-paraghic {
+        font-family: 'Roboto Condensed';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 26px;
+        color: #000000;
+        margin-top: 20px;
+    }
+
+    .on-blog-details-container-fluid-padding { 
+        padding: 15px;
+    }
+
+}

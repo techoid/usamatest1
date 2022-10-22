@@ -1,0 +1,36 @@
+seo page 1:
+width sahi ki hai 
+.section-container{
+	width:80%;
+}
+.section-heading {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 47px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #41A53D;
+    /* usama editing */
+    width: 80%;
+}
+
+classic diet ko neechay krnay ka code
+ .section-row {
+        padding-top: 10px;
+        /* usama editing */
+        margin-top: 3%;
+    }
+
+classic diet image: 
+.section-image-vector{
+	margin-top:50px;
+
+}
+
+/// note 
+section-title-heading 
+classic diet mein heading mein 
+text-align:inherit;
+aur green diet mein padding-left ayegi
